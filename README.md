@@ -32,7 +32,12 @@ Further drill down to individual level top 10 open oppty and Win
 <img width="1213" height="766" alt="image" src="https://github.com/user-attachments/assets/a1141473-a798-4179-89cd-8f647ef3356c" />
 
 ## Tableau Dashboard
-<img width="1913" height="970" alt="image" src="https://github.com/user-attachments/assets/26ce610d-3e7a-4ec1-9a0d-8ad73a6dc306" />
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/9571a38a-282c-4e85-a53b-529f3d2e52d0" />
+
+## Power Bi Dashboard
+![WhatsApp Image 2025-10-31 at 9 44 38 AM](https://github.com/user-attachments/assets/391250aa-4f20-41fc-8933-e417585afa97)
+
+
 
 
 
